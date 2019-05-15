@@ -1,0 +1,4 @@
+# ignore files
+/data
+/node_modules
+*.txt
