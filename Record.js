@@ -6,8 +6,6 @@ class Record {
         this.price = price;
         this.bonus = bonus;
     }
-
-
 }
 
 module.exports = Record;
